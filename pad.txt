@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+int l=3, b=4;
+printf(" Area of rectangle");
+}
